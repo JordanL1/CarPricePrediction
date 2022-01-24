@@ -1,0 +1,14 @@
+{
+    "python.languageServer": "Pylance",
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/*"
+      ],
+      "python.analysis.extraPaths": [
+        "${workspaceFolder}/*"
+      ],
+      "python.defaultInterpreterPath": "c:/Users/jorda/anaconda3/python.exe",
+      "python.terminal.activateEnvInCurrentTerminal": true,
+      "better-comments.multilineComments": true,
+      "better-comments.highlightPlainText": true,
+      "editor.semanticHighlighting.enabled": true
+}
